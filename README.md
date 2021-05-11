@@ -1717,7 +1717,7 @@ plt.grid()
 
 
     
-![png](output_28_0.png)
+![png](https://github.com/Blindusername001/Factor-Analysis---A-Basic-Exploration/blob/main/Images/output_28_0.png)
     
 
 
@@ -1782,7 +1782,7 @@ plt.show()
 
 
     
-![png](output_33_0.png)
+![png](https://github.com/Blindusername001/Factor-Analysis---A-Basic-Exploration/blob/main/Images/output_33_0.png)
     
 
 
@@ -1843,7 +1843,7 @@ plt.show()
 
 
     
-![png](output_36_1.png)
+![png](https://github.com/Blindusername001/Factor-Analysis---A-Basic-Exploration/blob/main/Images/output_36_1.png)
     
 
 
